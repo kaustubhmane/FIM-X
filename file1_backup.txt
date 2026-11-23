@@ -1,0 +1,3 @@
+FIM-X Test File 1
+UNAUTHORIZED CHANGE DETECTED TEST
+FIM-X modification detection verification
